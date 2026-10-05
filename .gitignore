@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+knowledge-base/.state/*
+!knowledge-base/.state/.gitkeep
+knowledge-base/.hooks/
+knowledge-base/.zvec-grep/
+node_modules/
